@@ -143,7 +143,7 @@ The analysis shows that resale prices are strongly influenced by car age, kilome
 
 Mekala Chandra Kiran
 🎓 B.Tech – Computer Science and Engineering
-📍 Hyderabad, India
+📍Innomatics research labs, Hyderabad, India
 
 🔗 LinkedIn: https://www.linkedin.com/in/mekala-chandra-kiran-6a2136389/
 
